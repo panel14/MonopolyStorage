@@ -1,0 +1,2 @@
+Id;Width;Height;Depth;Volume;Weight;ExpirationDate;ProductionDate
+52175c7b-fd19-4f94-9c17-f42a4806efce;20;20;20;8000;100;12.10.2024;12.10.2024

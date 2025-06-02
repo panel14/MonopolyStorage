@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "MonopolyStorage.Presentation.CLI": {
+      "commandName": "Project",
+      "commandLineArgs": "get_boxes_file --box-path C:\\Users\\alex\\source\\repos\\MonopolyStorage\\test.txt"
+    }
+  }
+}
